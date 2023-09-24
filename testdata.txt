@@ -1,0 +1,8 @@
+dummy.node
+node.one.num
+node.two.sin
+node.two.cos
+node.two.num
+node.three.sin
+node.three.cos
+node.three.num
